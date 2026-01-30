@@ -60,4 +60,4 @@ Données (DB) : http://localhost/items (Doit afficher la liste des données inje
 
 Pour plus d'informations se réferer au fichier .pdf : [Rapport_TD-Docker-SYSOPS-C2-KABA-Tasilimy.pdf]
 
-Auteur : KABA Tasilimy - EPSI Bachelor SYSOPS
+Auteur : KABA Tasilimy
